@@ -1,4 +1,10 @@
 *.env
 .idea
 venv
-config.ini'.idea' 
+config.ini
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+*.db
