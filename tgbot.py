@@ -44,3 +44,4 @@ def get_post(client, message):
 if __name__ == '__main__':
     print('Attempt to run telegram bot!')
     app.run()
+    app.restart()
