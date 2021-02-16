@@ -8,3 +8,5 @@ myvenv
 db.sqlite3
 .DS_Store
 *.db
+*.session
+*.session-journal
