@@ -1,3 +1,5 @@
+# - *- coding: utf- 8 - *-
+
 from pyrogram import Client, filters
 import sqlite3 as sql
 from dotenv import load_dotenv
